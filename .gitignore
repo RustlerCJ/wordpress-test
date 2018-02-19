@@ -1,2 +1,5 @@
 logs/
 app/public/wp-content/themes/starter-theme/static/node_modules/
+app/sql
+app/wp-admin
+app/wp-includes
